@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ffa914",
+  "cssTheme": "Tokyo Night Storm",
+  "textFontFamily": "RecMonoLinear Nerd Font",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "RecMonoLinear Nerd Font",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "RecMonoLinear Nerd Font",
+  "theme": "obsidian"
+}
