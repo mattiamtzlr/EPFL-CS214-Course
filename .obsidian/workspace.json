@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "940bbcc08ec0590b",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e0585b2150e652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83249948743374b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "dc90b5246aa3722a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala/2.1 Higher-Order Functions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "af27c1f630d82450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "287a0e85ddd20f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala/2.2 Currying.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb171b3b784b30a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff872c663b87ea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb6d59b05e378ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e63fb74ae0c11b26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5bab1fd3524e074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5026054382324
+  },
+  "right": {
+    "id": "cf17b2ef6c7a303e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0bc0f68ab14ad64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "453eff03549f45cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed583a17ce7d464a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d95339e697109ad9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea321a1f6ae03c3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "adb6d59b05e378ba",
+  "lastOpenFiles": [
+    "Scala/2.1 Higher-Order Functions.md",
+    "Scala/2.2 Currying.md",
+    "Scala/2.3 Data and Classes.md",
+    "Scala/2.4 Operators.md",
+    "Untitled.canvas",
+    "Scala/1.3 Recursion, Nested Functions.md",
+    "Scala/2.1 Tail Recursion.md",
+    "Slides/scala-week2.pdf",
+    "Scala/1.2 Scala Basics.md",
+    "Scala/1.1 Background.md",
+    "README.md",
+    "Scala/10.1 sklfj.md",
+    "Slides/software-eng-week1.pdf",
+    "Slides/scala-week1.pdf",
+    "Slides",
+    "Slides",
+    "Software Engineering/1.A Git Basics.md",
+    "Software Engineering",
+    "Scala",
+    "README.md.md",
+    "Week 1",
+    "1. Introduction/1.1 Functional programming.md",
+    "1. Introduction/1.2 Recursion.md",
+    "1. Introduction/1.3 Evaluation strategies.md",
+    "Introduction.md",
+    "Week 1"
+  ]
+}

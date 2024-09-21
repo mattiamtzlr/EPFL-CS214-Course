@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:1. AND path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 16458531
+      }
+    },
+    {
+      "query": "file:1. AND path:\"Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13046784
+      }
+    },
+    {
+      "query": "file:2. AND path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 7713279
+      }
+    },
+    {
+      "query": "path:Slides  ",
+      "color": {
+        "a": 1,
+        "rgb": 13824173
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.07243806687424,
+  "lineSizeMultiplier": 2.30357384594558,
+  "collapse-forces": true,
+  "centerStrength": 0.28076350345201,
+  "repelStrength": 8.99417896304318,
+  "linkStrength": 0.519019899824015,
+  "linkDistance": 223,
+  "scale": 0.8999070321592874,
+  "close": false
+}

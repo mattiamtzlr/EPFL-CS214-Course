@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "vimMode": true,
+  "showRibbon": true,
+  "alwaysUpdateLinks": true
+}
