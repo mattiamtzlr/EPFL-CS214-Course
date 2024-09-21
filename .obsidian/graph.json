@@ -2,9 +2,9 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -25,14 +25,7 @@
       "query": "file:2. AND path:Scala  ",
       "color": {
         "a": 1,
-        "rgb": 7713279
-      }
-    },
-    {
-      "query": "path:Slides  ",
-      "color": {
-        "a": 1,
-        "rgb": 13824173
+        "rgb": 11199026
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 8.99417896304318,
   "linkStrength": 0.519019899824015,
   "linkDistance": 223,
-  "scale": 0.8999070321592874,
+  "scale": 0.7705887948374398,
   "close": false
 }
