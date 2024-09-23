@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:1. AND path:Scala  ",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "file:3.   ",
+      "query": "file:3. AND path:Scala  ",
       "color": {
         "a": 1,
         "rgb": 3709183
@@ -46,6 +46,6 @@
   "repelStrength": 8.99417896304318,
   "linkStrength": 0.519019899824015,
   "linkDistance": 223,
-  "scale": 0.7705887948374398,
+  "scale": 0.6320223899072388,
   "close": false
 }
