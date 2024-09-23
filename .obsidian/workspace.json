@@ -18,12 +18,36 @@
             }
           },
           {
-            "id": "9ed211550d157b36",
+            "id": "412635167f2ba152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Scala/3.1 Hierarchies, Objects.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4c3efb5310af0747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala/3.2 Traits, Decomposition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b24b10466c8f473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala/3.3 Pattern Matching, Enums.md",
                 "mode": "source",
                 "source": true
               }
@@ -80,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5026054382324,
+    "width": 319.5,
     "collapsed": true
   },
   "right": {
@@ -159,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ed211550d157b36",
+  "active": "412635167f2ba152",
   "lastOpenFiles": [
+    "Scala/3.2 Traits, Decomposition.md",
+    "Scala/3.1 Hierarchies, Objects.md",
+    "Scala/3.3 Pattern Matching, Enums.md",
     "target/scala-2.12/classes",
     "target/scala-2.12/classes.bak",
     "target/streams/compile/compileIncremental/_global/streams/out",
@@ -171,8 +198,6 @@
     "target/streams/compile/dependencyClasspath/_global/streams/export",
     "target/streams/compile/dependencyClasspath/_global/streams",
     "target/streams/compile/dependencyClasspath/_global",
-    "target/streams/compile/dependencyClasspath",
-    "Scala/3.1 Hierarchies, Objects.md",
     "Scala/2.4 Operators.md",
     "Scala/2.3 Data and Classes.md",
     "Scala/2.2 Currying.md",
