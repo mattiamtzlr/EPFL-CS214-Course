@@ -161,6 +161,7 @@
   },
   "active": "2b24b10466c8f473",
   "lastOpenFiles": [
+    "code_snippets.scala~",
     "Scala/3.2 Traits, Decomposition.md",
     "Scala/3.1 Hierarchies, Objects.md",
     "Scala/3.3 Pattern Matching, Enums.md",
@@ -182,7 +183,6 @@
     "target/streams/compile/compileIncremental/_global",
     "target/streams/compile/compileIncremental",
     "target/streams/compile/dependencyClasspath/_global/streams/export",
-    "target/streams/compile/dependencyClasspath/_global/streams",
     "Scala/2.4 Operators.md",
     "Untitled.canvas",
     "Scala/2.1 Tail Recursion.md",
