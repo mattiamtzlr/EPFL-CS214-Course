@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/3.3 Pattern Matching, Enums.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -161,15 +161,18 @@
   },
   "active": "2b24b10466c8f473",
   "lastOpenFiles": [
-    "Scala/3.3 Pattern Matching, Enums.md",
     "Scala/3.2 Traits, Decomposition.md",
     "Scala/3.1 Hierarchies, Objects.md",
+    "Scala/3.3 Pattern Matching, Enums.md",
+    "README.md",
+    "Scala/1.1 Background.md",
+    "Scala/1.2 Scala Basics.md",
+    "back.md",
     "Images/scala-class-hierarchy.png",
     "Images",
     "Scala/2.3 Data and Classes.md",
     "Scala/2.1 Higher-Order Functions.md",
     "Scala/1.3 Recursion, Nested Functions.md",
-    "Scala/1.2 Scala Basics.md",
     "Scala/2.2 Currying.md",
     "target/scala-2.12/classes",
     "target/scala-2.12/classes.bak",
@@ -183,8 +186,6 @@
     "Scala/2.4 Operators.md",
     "Untitled.canvas",
     "Scala/2.1 Tail Recursion.md",
-    "Scala/1.1 Background.md",
-    "README.md",
     "Scala/10.1 sklfj.md",
     "Software Engineering/1.A Git Basics.md",
     "README.md.md",

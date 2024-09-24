@@ -1,6 +1,6 @@
 # Software Construction Course Notes
 Course notes for EPFL CS-214  
-This repository is an obsidian vault. For best results, view it in Obsidian.
+**This repository is an obsidian vault. For best results, view it in Obsidian.**
 
 ## Contents
 - [Scala](./Scala/): Notes about Scala and functional programming in general

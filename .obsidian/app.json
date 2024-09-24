@@ -5,5 +5,6 @@
   "rightToLeft": false,
   "vimMode": true,
   "showRibbon": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false
 }
