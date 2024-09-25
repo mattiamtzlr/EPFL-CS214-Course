@@ -18,7 +18,7 @@
       "query": "file:1. AND path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
-        "rgb": 13046784
+        "rgb": 11014400
       }
     },
     {
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 3709183
       }
+    },
+    {
+      "query": "file:3. AND path:\"Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 284335
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 8.99417896304318,
   "linkStrength": 0.519019899824015,
   "linkDistance": 223,
-  "scale": 0.6185500277975138,
-  "close": false
+  "scale": 0.7223534965336642,
+  "close": true
 }
