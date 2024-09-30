@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:1. AND path:Scala  ",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 284335
       }
+    },
+    {
+      "query": "file:4. AND path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 16767053
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 8.99417896304318,
   "linkStrength": 0.519019899824015,
   "linkDistance": 223,
-  "scale": 0.7223534965336642,
+  "scale": 0.5319507185149862,
   "close": true
 }

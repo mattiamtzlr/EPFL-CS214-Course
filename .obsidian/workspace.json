@@ -18,31 +18,43 @@
             }
           },
           {
-            "id": "2b24b10466c8f473",
+            "id": "28b8269d12084eaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/3.A Debugging Process.md",
-                "mode": "preview",
+                "file": "Scala/4.1 Program Proofs.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "15811f2aaf31500b",
+            "id": "8a886105bbeb82ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
-                "mode": "preview",
+                "file": "Scala/4.2 Generics, Polymorphism.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72919693abbd9bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala/4.3 Scala Lists, Tuples.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "called",
+                "query": "anonym",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
+                "file": "Scala/4.1 Program Proofs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
+                "file": "Scala/4.1 Program Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/3.B Debugging Techniques, Pitfalls.md"
+                "file": "Scala/4.1 Program Proofs.md"
               }
             }
           }
@@ -171,14 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15811f2aaf31500b",
+  "active": "28b8269d12084eaf",
   "lastOpenFiles": [
+    "Scala/4.3 Scala Lists, Tuples.md",
+    "Scala/4.1 Program Proofs.md",
+    "Slides/scala-week4.pdf",
+    "Scala/4.2 Generics, Polymorphism.md",
     "Software Engineering/3.A Debugging Process.md",
+    "Scala/3.3 Pattern Matching, Enums.md",
     "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Scala/3.1 Hierarchies, Objects.md",
     "Images/guide-to-debugging.png",
-    "Scala/3.3 Pattern Matching, Enums.md",
-    "Slides/soft-eng-week2.pdf",
+    "Slides/soft-eng-week3.pdf",
     "code_snippets.scala~",
     "Scala/3.2 Traits, Decomposition.md",
     "README.md",
@@ -197,7 +213,6 @@
     "target/streams/compile/compileIncremental/_global/streams/export",
     "target/streams/compile/compileIncremental/_global/streams",
     "target/streams/compile/compileIncremental/_global",
-    "target/streams/compile/compileIncremental",
     "Scala/2.4 Operators.md",
     "Untitled.canvas",
     "Scala/2.1 Tail Recursion.md",
