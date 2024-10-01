@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/4.3 Scala Lists, Tuples.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,10 +174,10 @@
   "active": "72919693abbd9bc7",
   "lastOpenFiles": [
     "Scala/4.3 Scala Lists, Tuples.md",
+    "Scala/4.1 Program Proofs.md",
     "Scala/4.2 Generics, Polymorphism.md",
     "Scala/2.3 Data and Classes.md",
     "Slides/scala-week2.pdf",
-    "Scala/4.1 Program Proofs.md",
     "Scala/2.1 Higher-Order Functions.md",
     "Slides/scala-week4.pdf",
     "Software Engineering/3.A Debugging Process.md",
