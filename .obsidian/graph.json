@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16767053
       }
+    },
+    {
+      "query": "file:4. AND path:\"Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12885006
+      }
     }
   ],
   "collapse-display": true,
@@ -55,7 +62,7 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 2.55,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.447916666666667,
   "repelStrength": 12.1875,
   "linkStrength": 0.677083333333333,
