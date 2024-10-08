@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:1. AND path:Scala  ",
@@ -69,11 +69,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 2.55,
-  "collapse-forces": false,
-  "centerStrength": 0.307291666666667,
-  "repelStrength": 10,
-  "linkStrength": 0.453125,
-  "linkDistance": 150,
+  "collapse-forces": true,
+  "centerStrength": 0.400071377587438,
+  "repelStrength": 11.1991434689508,
+  "linkStrength": 0.725553176302641,
+  "linkDistance": 207,
   "scale": 0.5388724504806938,
-  "close": true
+  "close": false
 }
