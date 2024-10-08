@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scala/5.3 For-Expressions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scala/5.3 For-Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,13 +157,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scala/5.3 For-Expressions.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,20 +178,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d03b96be27850276",
+  "active": "83249948743374b6",
   "lastOpenFiles": [
-    "Scala/5.2 More Collections.md",
     "Scala/5.3 For-Expressions.md",
+    "Software Engineering/1.A Git Basics.md",
+    "Software Engineering/4.B Testing Techniques.md",
+    "Software Engineering/4.A Tracing, Stack Usage.md",
+    "Scala/1.2 Scala Basics.md",
+    "Scala/4.2 Generics, Polymorphism.md",
     "Scala/5.1 Type Bounds, Variance.md",
+    "Scala/5.2 More Collections.md",
     "Slides/scala-week5.pdf",
     "Scala/3.1 Hierarchies, Objects.md",
     "Scala/4.3 Scala Lists, Tuples.md",
-    "Software Engineering/4.B Testing Techniques.md",
-    "Software Engineering/4.A Tracing, Stack Usage.md",
     "Scala/4.1 Program Proofs.md",
     "Scala/1.3 Recursion, Nested Functions.md",
-    "Scala/4.2 Generics, Polymorphism.md",
-    "Scala/1.2 Scala Basics.md",
     "Slides/soft-eng-week4.pdf",
     "Scala/2.3 Data and Classes.md",
     "Slides/scala-week2.pdf",
@@ -221,7 +217,6 @@
     "Scala/2.4 Operators.md",
     "Untitled.canvas",
     "Scala/2.1 Tail Recursion.md",
-    "Scala/10.1 sklfj.md",
-    "Software Engineering/1.A Git Basics.md"
+    "Scala/10.1 sklfj.md"
   ]
 }
