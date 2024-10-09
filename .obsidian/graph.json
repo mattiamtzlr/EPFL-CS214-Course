@@ -8,59 +8,66 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "file:1. AND path:Scala  ",
+      "query": "file:1. path:Scala  ",
       "color": {
         "a": 1,
         "rgb": 16458531
       }
     },
     {
-      "query": "file:1. AND path:\"Software Engineering\"  ",
+      "query": "file:1. path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
         "rgb": 11014400
       }
     },
     {
-      "query": "file:2. AND path:Scala  ",
+      "query": "file:2. path:Scala  ",
       "color": {
         "a": 1,
         "rgb": 11199026
       }
     },
     {
-      "query": "file:3. AND path:Scala  ",
+      "query": "file:3. path:Scala  ",
       "color": {
         "a": 1,
         "rgb": 3709183
       }
     },
     {
-      "query": "file:3. AND path:\"Software Engineering\"  ",
+      "query": "file:3. path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
         "rgb": 284335
       }
     },
     {
-      "query": "file:4. AND path:Scala  ",
+      "query": "file:4. path:Scala  ",
       "color": {
         "a": 1,
         "rgb": 16767053
       }
     },
     {
-      "query": "file:4. AND path:\"Software Engineering\"  ",
+      "query": "file:4. path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
         "rgb": 12885006
       }
     },
     {
-      "query": "file:5. AND path:Scala  ",
+      "query": "file:5. path:Scala  ",
       "color": {
         "a": 1,
         "rgb": 12284129
+      }
+    },
+    {
+      "query": "file:5. path:\"Software Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 9980607
       }
     }
   ],
