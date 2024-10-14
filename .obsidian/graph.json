@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 9980607
       }
+    },
+    {
+      "query": "file:6. path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 4313767
+      }
     }
   ],
   "collapse-display": true,
@@ -76,11 +83,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 2.55,
-  "collapse-forces": true,
-  "centerStrength": 0.400071377587438,
-  "repelStrength": 11.1991434689508,
+  "collapse-forces": false,
+  "centerStrength": 0.572916666666667,
+  "repelStrength": 14.1666666666667,
   "linkStrength": 0.725553176302641,
-  "linkDistance": 207,
+  "linkDistance": 145,
   "scale": 0.5388724504806938,
   "close": true
 }
