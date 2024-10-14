@@ -18,31 +18,31 @@
             }
           },
           {
-            "id": "f3044835c849dea8",
+            "id": "d66ab8fbfc5a65c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/5.A Specifications.md",
+                "file": "Scala/6.1 Parallelism.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "d66ab8fbfc5a65c5",
+            "id": "9b539aed52d45c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala/5.1 Type Bounds, Variance.md",
+                "file": "Scala/6.2 Parallel Collections.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/5.A Specifications.md",
+                "file": "Scala/6.2 Parallel Collections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/5.A Specifications.md",
+                "file": "Scala/6.2 Parallel Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/5.A Specifications.md"
+                "file": "Scala/6.2 Parallel Collections.md"
               }
             }
           }
@@ -171,18 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3044835c849dea8",
+  "active": "9b539aed52d45c12",
   "lastOpenFiles": [
-    "Software Engineering/5.A Specifications.md",
+    "Scala/6.1 Parallelism.md",
+    "Scala/6.2 Parallel Collections.md",
+    "Scala/5.2 More Collections.md",
+    "Scala/1.2 Scala Basics.md",
+    "Untitled.md",
+    "Scala/5.3 For-Expressions.md",
     "Scala/5.1 Type Bounds, Variance.md",
+    "Software Engineering/5.A Specifications.md",
     "Slides/soft-eng-week5.pdf",
     "Software Engineering/4.A Tracing, Stack Usage.md",
     "Software Engineering/4.B Testing Techniques.md",
-    "Scala/5.3 For-Expressions.md",
     "Software Engineering/1.A Git Basics.md",
-    "Scala/1.2 Scala Basics.md",
     "Scala/4.2 Generics, Polymorphism.md",
-    "Scala/5.2 More Collections.md",
     "Slides/scala-week5.pdf",
     "Scala/3.1 Hierarchies, Objects.md",
     "Scala/4.3 Scala Lists, Tuples.md",
@@ -208,9 +211,6 @@
     "Scala/2.2 Currying.md",
     "target/scala-2.12/classes",
     "target/scala-2.12/classes.bak",
-    "Scala/2.4 Operators.md",
-    "Untitled.canvas",
-    "Scala/2.1 Tail Recursion.md",
-    "Scala/10.1 sklfj.md"
+    "Untitled.canvas"
   ]
 }
