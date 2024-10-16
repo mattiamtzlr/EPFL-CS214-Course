@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/6.1 Parallelism.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -36,13 +36,25 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/6.2 Parallel Collections.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67fb8778a03b38f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/6.A Work and Depth.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
+    "width": 314.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scala/6.2 Parallel Collections.md",
+                "file": "Software Engineering/6.A Work and Depth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scala/6.2 Parallel Collections.md",
+                "file": "Software Engineering/6.A Work and Depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scala/6.2 Parallel Collections.md"
+                "file": "Software Engineering/6.A Work and Depth.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b539aed52d45c12",
+  "active": "67fb8778a03b38f8",
   "lastOpenFiles": [
-    "Software Engineering/5.A Specifications.md",
+    "Software Engineering/6.A Work and Depth.md",
     "Scala/6.2 Parallel Collections.md",
     "Scala/6.1 Parallelism.md",
+    "Software Engineering/5.A Specifications.md",
     "Scala/5.2 More Collections.md",
     "Scala/1.2 Scala Basics.md",
     "Untitled.md",
@@ -208,7 +221,6 @@
     "back.md",
     "Images/scala-class-hierarchy.png",
     "Images",
-    "Scala/2.2 Currying.md",
     "target/scala-2.12/classes",
     "target/scala-2.12/classes.bak",
     "Untitled.canvas"
