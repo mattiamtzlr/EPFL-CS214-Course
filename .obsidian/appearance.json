@@ -1,9 +1,9 @@
 {
   "accentColor": "#bd7aff",
   "cssTheme": "Tokyo Night Storm",
-  "textFontFamily": "Iosevka Nerd Font,RecMonoLinear Nerd Font",
-  "baseFontSize": 18,
-  "monospaceFontFamily": "IosevkaTerm Nerd Font,RecMonoLinear Nerd Font",
+  "textFontFamily": "RecMonoLinear Nerd Font,Iosevka Nerd Font",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "RecMonoLinear Nerd Font,IosevkaTerm Nerd Font",
   "showViewHeader": true,
   "nativeMenus": false,
   "baseFontSizeAction": true,
