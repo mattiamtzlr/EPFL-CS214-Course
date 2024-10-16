@@ -1,12 +1,12 @@
 {
   "accentColor": "#bd7aff",
   "cssTheme": "Tokyo Night Storm",
-  "textFontFamily": "RecMonoLinear Nerd Font",
-  "baseFontSize": 16,
-  "monospaceFontFamily": "RecMonoLinear Nerd Font",
+  "textFontFamily": "Iosevka Nerd Font",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "IosevkaTerm Nerd Font",
   "showViewHeader": true,
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "RecMonoLinear Nerd Font",
+  "interfaceFontFamily": "RecMonoCasual Nerd Font,Iosevka Nerd Font",
   "theme": "obsidian"
 }
