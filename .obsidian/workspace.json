@@ -14,7 +14,9 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -26,7 +28,9 @@
                 "file": "Scala/6.1 Parallelism.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6.1 Parallelism"
             }
           },
           {
@@ -38,7 +42,9 @@
                 "file": "Scala/6.2 Parallel Collections.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6.2 Parallel Collections"
             }
           },
           {
@@ -50,7 +56,9 @@
                 "file": "Software Engineering/6.A Work and Depth.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6.A Work and Depth"
             }
           }
         ],
@@ -74,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -89,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -97,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -129,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6.A Work and Depth"
             }
           },
           {
@@ -141,7 +157,9 @@
                 "file": "Software Engineering/6.A Work and Depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6.A Work and Depth"
             }
           },
           {
@@ -152,7 +170,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,7 +182,9 @@
               "type": "outline",
               "state": {
                 "file": "Software Engineering/6.A Work and Depth.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6.A Work and Depth"
             }
           }
         ],
