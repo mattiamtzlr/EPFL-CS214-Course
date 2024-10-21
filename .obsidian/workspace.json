@@ -125,7 +125,7 @@
       {
         "id": "47ddbcd94cd25100",
         "type": "tabs",
-        "dimension": 28.627450980392155,
+        "dimension": 28.627450980392158,
         "children": [
           {
             "id": "ed583a17ce7d464a",
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +191,7 @@
   },
   "active": "417622f75fe2c872",
   "lastOpenFiles": [
+    "test.txt",
     "Scala/6.2 Parallel Collections.md",
     "Scala/6.1 Parallelism.md",
     "Scala/3.2 Traits, Decomposition.md",
@@ -222,7 +222,6 @@
     "Slides/scala-week2.pdf",
     "Slides/scala-week4.pdf",
     "Software Engineering/3.A Debugging Process.md",
-    "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Images/guide-to-debugging.png",
     "Slides/soft-eng-week3.pdf",
     "code_snippets.scala~",
