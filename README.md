@@ -8,5 +8,4 @@ The internal links referring to them will therefore not work.
 ## Contents
 - [Scala](./Scala/): Notes about Scala and functional programming in general
 - [Software Engineering](<./Software Engineering/>): Notes about Software engineering in general
-- [Slides](./Slides/): Course slides
 - [Images](./Images/): Images used in the notes
