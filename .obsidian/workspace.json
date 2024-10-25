@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/6.A Requirements for Parallelism.md",
+                "file": "Scala/5.2 More Collections.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6.A Requirements for Parallelism"
+              "title": "5.2 More Collections"
             }
           }
         ],
@@ -99,7 +99,7 @@
       {
         "id": "c0bc0f68ab14ad64",
         "type": "tabs",
-        "dimension": 24.313725490196077,
+        "dimension": 24.313725490196074,
         "children": [
           {
             "id": "453eff03549f45cf",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/6.A Requirements for Parallelism.md",
+                "file": "Scala/5.2 More Collections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6.A Requirements for Parallelism"
+              "title": "Backlinks for 5.2 More Collections"
             }
           }
         ]
@@ -125,7 +125,7 @@
       {
         "id": "47ddbcd94cd25100",
         "type": "tabs",
-        "dimension": 28.627450980392158,
+        "dimension": 28.627450980392165,
         "children": [
           {
             "id": "ed583a17ce7d464a",
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/6.A Requirements for Parallelism.md",
+                "file": "Scala/5.2 More Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6.A Requirements for Parallelism"
+              "title": "Outgoing links from 5.2 More Collections"
             }
           }
         ]
@@ -146,7 +146,7 @@
       {
         "id": "baad30da46471350",
         "type": "tabs",
-        "dimension": 47.05882352941176,
+        "dimension": 47.058823529411754,
         "children": [
           {
             "id": "ea321a1f6ae03c3d",
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/6.A Requirements for Parallelism.md"
+                "file": "Scala/5.2 More Collections.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.A Requirements for Parallelism"
+              "title": "Outline of 5.2 More Collections"
             }
           },
           {
@@ -191,13 +191,15 @@
   },
   "active": "417622f75fe2c872",
   "lastOpenFiles": [
+    "Scala/5.1 Type Bounds, Variance.md",
+    "Scala/4.1 Program Proofs.md",
+    "Software Engineering/4.A Tracing, Stack Usage.md",
     "Software Engineering/6.A Requirements for Parallelism.md",
     "Scala/6.1 Parallelism.md",
     "Scala/6.2 Parallel Collections.md",
     "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/5.A Specifications.md",
     "Software Engineering/4.B Testing Techniques.md",
-    "Software Engineering/4.A Tracing, Stack Usage.md",
     "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Software Engineering/3.A Debugging Process.md",
     "Software Engineering/1.A Git Basics.md",
@@ -206,10 +208,8 @@
     "Scala/3.1 Hierarchies, Objects.md",
     "Scala/5.3 For-Expressions.md",
     "Scala/5.2 More Collections.md",
-    "Scala/5.1 Type Bounds, Variance.md",
     "Scala/4.3 Scala Lists, Tuples.md",
     "Scala/4.2 Generics, Polymorphism.md",
-    "Scala/4.1 Program Proofs.md",
     "Scala/3.3 Pattern Matching, Enums.md",
     "Scala/2.4 Operators.md",
     "Scala/2.3 Data and Classes.md",
