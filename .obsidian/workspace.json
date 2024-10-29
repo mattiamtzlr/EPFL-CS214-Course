@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/7.2 Infinite Sequences.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "square",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scala/3.3 Pattern Matching, Enums.md",
+                "file": "Scala/7.1 Lazy Lists, Evaluation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.3 Pattern Matching, Enums"
+              "title": "Backlinks for 7.1 Lazy Lists, Evaluation"
             }
           }
         ]
@@ -148,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scala/3.3 Pattern Matching, Enums.md",
+                "file": "Scala/7.1 Lazy Lists, Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3.3 Pattern Matching, Enums"
+              "title": "Outgoing links from 7.1 Lazy Lists, Evaluation"
             }
           }
         ]
@@ -169,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scala/3.3 Pattern Matching, Enums.md"
+                "file": "Scala/7.1 Lazy Lists, Evaluation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.3 Pattern Matching, Enums"
+              "title": "Outline of 7.1 Lazy Lists, Evaluation"
             }
           },
           {
@@ -205,9 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b9f185df980f41e",
+  "active": "417622f75fe2c872",
   "lastOpenFiles": [
     "Scala/7.2 Infinite Sequences.md",
+    "Scala/1.3 Recursion, Nested Functions.md",
     "Scala/7.1 Lazy Lists, Evaluation.md",
     "Scala/3.3 Pattern Matching, Enums.md",
     "Scala/3.2 Traits, Decomposition.md",
@@ -236,7 +238,6 @@
     "Scala/2.3 Data and Classes.md",
     "Scala/2.1 Higher-Order Functions.md",
     "Scala/2.2 Currying.md",
-    "Scala/1.3 Recursion, Nested Functions.md",
     "Slides/soft-eng-week5.pdf",
     "Slides/scala-week5.pdf",
     "Slides/soft-eng-week4.pdf",
