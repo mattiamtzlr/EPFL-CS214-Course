@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 16747325
       }
+    },
+    {
+      "query": "file:7. path:\"Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13261586
+      }
     }
   ],
   "collapse-display": true,

@@ -20,31 +20,17 @@
             }
           },
           {
-            "id": "417622f75fe2c872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scala/7.1 Lazy Lists, Evaluation.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "7.1 Lazy Lists, Evaluation"
-            }
-          },
-          {
             "id": "9b9f185df980f41e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala/7.2 Infinite Sequences.md",
+                "file": "Software Engineering/7.A Functional Data Structures.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7.2 Infinite Sequences"
+              "title": "7.A Functional Data Structures"
             }
           }
         ],
@@ -100,8 +86,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scala/7.1 Lazy Lists, Evaluation.md",
+                "file": "Scala/7.2 Infinite Sequences.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7.1 Lazy Lists, Evaluation"
+              "title": "Backlinks for 7.2 Infinite Sequences"
             }
           }
         ]
@@ -149,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scala/7.1 Lazy Lists, Evaluation.md",
+                "file": "Scala/7.2 Infinite Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7.1 Lazy Lists, Evaluation"
+              "title": "Outgoing links from 7.2 Infinite Sequences"
             }
           }
         ]
@@ -170,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scala/7.1 Lazy Lists, Evaluation.md"
+                "file": "Scala/7.2 Infinite Sequences.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.1 Lazy Lists, Evaluation"
+              "title": "Outline of 7.2 Infinite Sequences"
             }
           },
           {
@@ -206,27 +191,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "417622f75fe2c872",
+  "active": "9b9f185df980f41e",
   "lastOpenFiles": [
+    "Software Engineering/7.A Functional Data Structures.md",
+    "Software Engineering/4.A Tracing, Stack Usage.md",
+    "Software Engineering/4.B Testing Techniques.md",
+    "Scala/6.2 Parallel Collections.md",
+    "Software Engineering/6.B Work and Depth.md",
+    "Software Engineering/6.A Requirements for Parallelism.md",
+    "Scala/6.1 Parallelism.md",
+    "Scala/7.1 Lazy Lists, Evaluation.md",
     "Scala/7.2 Infinite Sequences.md",
     "Scala/1.3 Recursion, Nested Functions.md",
-    "Scala/7.1 Lazy Lists, Evaluation.md",
     "Scala/3.3 Pattern Matching, Enums.md",
     "Scala/3.2 Traits, Decomposition.md",
     "Scala/3.1 Hierarchies, Objects.md",
-    "Scala/6.2 Parallel Collections.md",
     "Scala/5.2 More Collections.md",
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
     "Slides/scala-week6.pdf",
     "Scala/5.1 Type Bounds, Variance.md",
     "Scala/4.1 Program Proofs.md",
-    "Software Engineering/4.A Tracing, Stack Usage.md",
-    "Software Engineering/6.A Requirements for Parallelism.md",
-    "Scala/6.1 Parallelism.md",
-    "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/5.A Specifications.md",
-    "Software Engineering/4.B Testing Techniques.md",
     "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Software Engineering/3.A Debugging Process.md",
     "Software Engineering/1.A Git Basics.md",
@@ -237,7 +223,6 @@
     "Scala/2.4 Operators.md",
     "Scala/2.3 Data and Classes.md",
     "Scala/2.1 Higher-Order Functions.md",
-    "Scala/2.2 Currying.md",
     "Slides/soft-eng-week5.pdf",
     "Slides/scala-week5.pdf",
     "Slides/soft-eng-week4.pdf",
