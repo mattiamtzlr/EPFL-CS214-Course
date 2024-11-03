@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/7.A Functional Data Structures.md",
+                "file": "Scala/5.1 Type Relations, Variance.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7.A Functional Data Structures"
+              "title": "5.1 Type Relations, Variance"
             }
           }
         ],
@@ -193,10 +193,12 @@
   },
   "active": "9b9f185df980f41e",
   "lastOpenFiles": [
+    "Scala/5.1 Type Relations, Variance.md",
+    "Software Engineering/3.A Debugging Process.md",
+    "Software Engineering/7.A Functional Data Structures.md",
     "Slides/soft-eng-week7.pdf",
     "Scala/7.2 Infinite Sequences.md",
     "Scala/7.1 Lazy Lists, Evaluation.md",
-    "Software Engineering/7.A Functional Data Structures.md",
     "Software Engineering/4.A Tracing, Stack Usage.md",
     "Software Engineering/4.B Testing Techniques.md",
     "Scala/6.2 Parallel Collections.md",
@@ -211,11 +213,9 @@
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
     "Slides/scala-week6.pdf",
-    "Scala/5.1 Type Bounds, Variance.md",
     "Scala/4.1 Program Proofs.md",
     "Software Engineering/5.A Specifications.md",
     "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
-    "Software Engineering/3.A Debugging Process.md",
     "Software Engineering/1.A Git Basics.md",
     "test.txt",
     "Scala/5.3 For-Expressions.md",
@@ -229,7 +229,6 @@
     "Slides/scala-week2.pdf",
     "Slides/scala-week4.pdf",
     "Images/guide-to-debugging.png",
-    "Slides/soft-eng-week3.pdf",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
   ]
