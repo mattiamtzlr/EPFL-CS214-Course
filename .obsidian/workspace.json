@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Software Engineering/8.A Practical Engineering I.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -193,6 +193,7 @@
   },
   "active": "9b9f185df980f41e",
   "lastOpenFiles": [
+    "Slides/soft-eng-week8-demo.pdf",
     "Images/digital_sound.png",
     "Images/physical_sound.png",
     "Software Engineering/8.A Practical Engineering I.md",
