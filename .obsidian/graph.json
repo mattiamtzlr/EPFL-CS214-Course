@@ -97,18 +97,32 @@
         "a": 1,
         "rgb": 13261586
       }
+    },
+    {
+      "query": "file:8. path:\"Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15275633
+      }
+    },
+    {
+      "query": "file:8. path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 16727441
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
+  "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 2.55,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.572916666666667,
   "repelStrength": 14.1666666666667,
   "linkStrength": 0.725553176302641,
   "linkDistance": 145,
-  "scale": 0.42432152129205236,
+  "scale": 0.4766792772374415,
   "close": true
 }
