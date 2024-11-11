@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9b9f185df980f41e",
+            "id": "48a32aeae91d8b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "8.A Practical Engineering I"
             }
+          },
+          {
+            "id": "9b9f185df980f41e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/9.A Practical Engineering II.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "9.A Practical Engineering II"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "import",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,16 +207,19 @@
   },
   "active": "9b9f185df980f41e",
   "lastOpenFiles": [
+    "Software Engineering/8.A Practical Engineering I.md",
+    "Software Engineering/9.A Practical Engineering II.md",
+    "Scala/3.1 Hierarchies, Objects.md",
+    "Images/webapp_structure.png",
+    "Software Engineering/4.B Testing Techniques.md",
+    "Software Engineering/5.A Specifications.md",
     "Slides/soft-eng-week8-demo.pdf",
     "Images/digital_sound.png",
     "Images/physical_sound.png",
-    "Software Engineering/8.A Practical Engineering I.md",
     "Software Engineering/7.A Functional Data Structures.md",
     "Slides/soft-eng-week8.pdf",
     "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/6.A Requirements for Parallelism.md",
-    "Software Engineering/5.A Specifications.md",
-    "Software Engineering/4.B Testing Techniques.md",
     "Software Engineering/1.A Git Basics.md",
     "Software Engineering/4.A Tracing, Stack Usage.md",
     "Scala/4.2 Generics, Polymorphism.md",
@@ -217,7 +234,6 @@
     "Scala/1.3 Recursion, Nested Functions.md",
     "Scala/3.3 Pattern Matching, Enums.md",
     "Scala/3.2 Traits, Decomposition.md",
-    "Scala/3.1 Hierarchies, Objects.md",
     "Scala/5.2 More Collections.md",
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
@@ -226,11 +242,9 @@
     "test.txt",
     "Scala/5.3 For-Expressions.md",
     "Scala/4.3 Scala Lists, Tuples.md",
-    "Scala/2.4 Operators.md",
     "Slides/soft-eng-week5.pdf",
     "Slides/scala-week5.pdf",
     "Slides/soft-eng-week4.pdf",
-    "Slides/scala-week2.pdf",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
