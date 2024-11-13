@@ -102,18 +102,18 @@
       "query": "file:8. path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
-        "rgb": 15275633
+        "rgb": 1615177
       }
     },
     {
       "query": "file:9. path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
-        "rgb": 1615177
+        "rgb": 15275633
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.27395833333333,

@@ -20,20 +20,6 @@
             }
           },
           {
-            "id": "48a32aeae91d8b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/8.A Practical Engineering I.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "8.A Practical Engineering I"
-            }
-          },
-          {
             "id": "9b9f185df980f41e",
             "type": "leaf",
             "state": {
@@ -45,6 +31,20 @@
               },
               "icon": "lucide-file",
               "title": "9.A Practical Engineering II"
+            }
+          },
+          {
+            "id": "48a32aeae91d8b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/9.B Distributed Version Control.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "9.B Distributed Version Control"
             }
           }
         ],
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "import",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,10 +205,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b9f185df980f41e",
+  "active": "48a32aeae91d8b11",
   "lastOpenFiles": [
-    "Software Engineering/8.A Practical Engineering I.md",
     "Software Engineering/9.A Practical Engineering II.md",
+    "Software Engineering/9.B Distributed Version Control.md",
+    "Software Engineering/1.A Git Basics.md",
+    "Software Engineering/8.A Practical Engineering I.md",
+    "Slides/soft-eng-week9_1-demo.pdf",
+    "Slides/soft-eng-week9_1.pdf",
+    "Slides/soft-eng-week9_2.pdf",
     "Scala/3.1 Hierarchies, Objects.md",
     "Images/webapp_structure.png",
     "Software Engineering/4.B Testing Techniques.md",
@@ -220,7 +225,6 @@
     "Slides/soft-eng-week8.pdf",
     "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/6.A Requirements for Parallelism.md",
-    "Software Engineering/1.A Git Basics.md",
     "Software Engineering/4.A Tracing, Stack Usage.md",
     "Scala/4.2 Generics, Polymorphism.md",
     "Scala/7.2 Infinite Sequences.md",
@@ -242,9 +246,6 @@
     "test.txt",
     "Scala/5.3 For-Expressions.md",
     "Scala/4.3 Scala Lists, Tuples.md",
-    "Slides/soft-eng-week5.pdf",
-    "Slides/scala-week5.pdf",
-    "Slides/soft-eng-week4.pdf",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
