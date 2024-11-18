@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 15275633
       }
+    },
+    {
+      "query": "file:10. path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 7235536
+      }
     }
   ],
   "collapse-display": true,
