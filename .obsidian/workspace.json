@@ -26,11 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/10.1 Imperative Programming.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "10.1 Imperative Programming"
+            }
+          },
+          {
+            "id": "66735d2ff69e478e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala/10.2 Side Effects, Hoare Logic.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "10.2 Side Effects, Hoare Logic"
             }
           }
         ],
@@ -65,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "require",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scala/7.2 Infinite Sequences.md",
+                "file": "Scala/10.1 Imperative Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7.2 Infinite Sequences"
+              "title": "Backlinks for 10.1 Imperative Programming"
             }
           }
         ]
@@ -135,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scala/7.2 Infinite Sequences.md",
+                "file": "Scala/10.1 Imperative Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7.2 Infinite Sequences"
+              "title": "Outgoing links from 10.1 Imperative Programming"
             }
           }
         ]
@@ -156,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scala/7.2 Infinite Sequences.md"
+                "file": "Scala/10.1 Imperative Programming.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.2 Infinite Sequences"
+              "title": "Outline of 10.1 Imperative Programming"
             }
           },
           {
@@ -194,7 +207,9 @@
   },
   "active": "a8217bf78b75cdb0",
   "lastOpenFiles": [
+    "Scala/10.2 Side Effects, Hoare Logic.md",
     "Scala/10.1 Imperative Programming.md",
+    "Software Engineering/7.A Functional Data Structures.md",
     "Scala/1.1 Background.md",
     "Slides/scala-week10.pdf",
     "Software Engineering/9.A Practical Engineering II.md",
@@ -212,7 +227,6 @@
     "Slides/soft-eng-week8-demo.pdf",
     "Images/digital_sound.png",
     "Images/physical_sound.png",
-    "Software Engineering/7.A Functional Data Structures.md",
     "Slides/soft-eng-week8.pdf",
     "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/6.A Requirements for Parallelism.md",
@@ -232,7 +246,6 @@
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
     "Slides/scala-week6.pdf",
-    "Scala/4.1 Program Proofs.md",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
