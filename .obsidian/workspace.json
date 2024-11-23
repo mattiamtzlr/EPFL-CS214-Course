@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala/10.3 Context Abstraction.md",
-                "mode": "source",
+                "file": "Scala/10.3 Contextual Abstraction.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "10.3 Context Abstraction"
+              "title": "10.3 Contextual Abstraction"
             }
           }
         ],
@@ -221,9 +221,9 @@
   },
   "active": "66735d2ff69e478e",
   "lastOpenFiles": [
+    "Scala/10.3 Contextual Abstraction.md",
     "Scala/10.2 Side Effects, Hoare Logic.md",
     "Scala/10.1 Imperative Programming.md",
-    "Scala/10.3 Context Abstraction.md",
     "Software Engineering/7.A Functional Data Structures.md",
     "Scala/1.1 Background.md",
     "Slides/scala-week10.pdf",
