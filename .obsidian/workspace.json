@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala/11.1 Safe Imperative Programming.md",
-                "mode": "preview",
+                "file": "Software Engineering/11.A Human Aspects, Ethics.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "11.1 Safe Imperative Programming"
+              "title": "11.A Human Aspects, Ethics"
             }
           }
         ],
@@ -193,6 +193,8 @@
   },
   "active": "66735d2ff69e478e",
   "lastOpenFiles": [
+    "Software Engineering/11.A Human Aspects, Ethics.md",
+    "Scala/2.3 Data and Classes.md",
     "Scala/11.1 Safe Imperative Programming.md",
     "Scala/10.2 Side Effects, Hoare Logic.md",
     "Scala/10.3 Contextual Abstraction.md",
@@ -227,8 +229,6 @@
     "Scala/6.1 Parallelism.md",
     "Scala/6.2 Parallel Collections.md",
     "Slides/soft-eng-week7.pdf",
-    "Scala/7.1 Lazy Lists, Evaluation.md",
-    "Scala/1.3 Recursion, Nested Functions.md",
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
     "Slides/scala-week6.pdf",

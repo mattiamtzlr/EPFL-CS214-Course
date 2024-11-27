@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "file:1. path:\"Software Engineering\"  ",
+      "query": "file:11. path:\"Software Engineering\"  ",
       "color": {
         "a": 1,
-        "rgb": 11014400
+        "rgb": 5665670
       }
     },
     {
@@ -125,11 +125,18 @@
         "a": 1,
         "rgb": 16458531
       }
+    },
+    {
+      "query": "file:1. path:\"Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11014400
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 2.55,
   "collapse-forces": true,
@@ -137,6 +144,6 @@
   "repelStrength": 14.1666666666667,
   "linkStrength": 0.725553176302641,
   "linkDistance": 145,
-  "scale": 0.390076636184449,
+  "scale": 0.4363245252508409,
   "close": true
 }
