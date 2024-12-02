@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "file:2. path:Scala  ",
+      "query": "file:12. path:Scala  ",
       "color": {
         "a": 1,
-        "rgb": 11199026
+        "rgb": 15634823
       }
     },
     {
@@ -131,6 +131,13 @@
       "color": {
         "a": 1,
         "rgb": 11014400
+      }
+    },
+    {
+      "query": "file:2. path:Scala  ",
+      "color": {
+        "a": 1,
+        "rgb": 11199026
       }
     }
   ],

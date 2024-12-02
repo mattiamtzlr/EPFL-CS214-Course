@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "66735d2ff69e478e",
+            "id": "218618af75165dc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/11.A Human Aspects, Ethics.md",
+                "file": "Scala/12.1 Asynchronous Programming.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "11.A Human Aspects, Ethics"
+              "title": "12.1 Asynchronous Programming"
             }
           }
         ],
@@ -191,9 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66735d2ff69e478e",
+  "active": "218618af75165dc0",
   "lastOpenFiles": [
+    "Scala/12.1 Asynchronous Programming.md",
     "Software Engineering/11.A Human Aspects, Ethics.md",
+    "Slides/scala-week12.pdf",
     "Scala/2.3 Data and Classes.md",
     "Scala/11.1 Safe Imperative Programming.md",
     "Scala/10.2 Side Effects, Hoare Logic.md",
@@ -227,11 +229,9 @@
     "Software Engineering/3.A Debugging Process.md",
     "Scala/5.1 Type Relations, Variance.md",
     "Scala/6.1 Parallelism.md",
-    "Scala/6.2 Parallel Collections.md",
     "Slides/soft-eng-week7.pdf",
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
-    "Slides/scala-week6.pdf",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
