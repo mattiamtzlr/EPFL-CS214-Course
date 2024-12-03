@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/12.1 Asynchronous Programming.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -193,6 +193,7 @@
   },
   "active": "218618af75165dc0",
   "lastOpenFiles": [
+    "Images/coffee_shop_asynchronous.png",
     "Scala/12.1 Asynchronous Programming.md",
     "Software Engineering/11.A Human Aspects, Ethics.md",
     "Slides/scala-week12.pdf",
@@ -228,7 +229,6 @@
     "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Software Engineering/3.A Debugging Process.md",
     "Scala/5.1 Type Relations, Variance.md",
-    "Scala/6.1 Parallelism.md",
     "Slides/soft-eng-week7.pdf",
     "Slides/scala-week7.pdf",
     "Slides/soft-eng-week6.pdf",
