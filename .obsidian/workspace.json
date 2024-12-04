@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala/12.1 Asynchronous Programming.md",
+                "file": "Software Engineering/12.A Automated Testing.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12.1 Asynchronous Programming"
+              "title": "12.A Automated Testing"
             }
           }
         ],
@@ -193,8 +193,11 @@
   },
   "active": "218618af75165dc0",
   "lastOpenFiles": [
-    "Images/coffee_shop_asynchronous.png",
+    "Scala/3.3 Pattern Matching, Enums.md",
+    "Software Engineering/12.A Automated Testing.md",
     "Scala/12.1 Asynchronous Programming.md",
+    "Slides/soft-eng-week11.pdf",
+    "Images/coffee_shop_asynchronous.png",
     "Software Engineering/11.A Human Aspects, Ethics.md",
     "Slides/scala-week12.pdf",
     "Scala/2.3 Data and Classes.md",
@@ -228,10 +231,8 @@
     "Scala/7.2 Infinite Sequences.md",
     "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Software Engineering/3.A Debugging Process.md",
-    "Scala/5.1 Type Relations, Variance.md",
     "Slides/soft-eng-week7.pdf",
     "Slides/scala-week7.pdf",
-    "Slides/soft-eng-week6.pdf",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
