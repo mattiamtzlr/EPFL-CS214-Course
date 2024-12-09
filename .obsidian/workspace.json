@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Software Engineering/13.A Formal Verification.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -193,6 +193,8 @@
   },
   "active": "e86ae7b5b3630f3f",
   "lastOpenFiles": [
+    "Slides/soft-eng-week13.pdf",
+    "Untitled.md",
     "Software Engineering/13.A Formal Verification.md",
     "Scala/10.1 Imperative Programming.md",
     "Software Engineering/11.A Human Aspects, Ethics.md",
@@ -229,8 +231,6 @@
     "Software Engineering/6.A Requirements for Parallelism.md",
     "Software Engineering/4.A Tracing, Stack Usage.md",
     "Scala/4.2 Generics, Polymorphism.md",
-    "Scala/7.2 Infinite Sequences.md",
-    "Software Engineering/3.B Debugging Techniques, Pitfalls.md",
     "Slides/soft-eng-week7.pdf",
     "Slides/scala-week7.pdf",
     "Images/guide-to-debugging.png",
