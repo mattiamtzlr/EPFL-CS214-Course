@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Scala/13.1 Contextual Abstraction II.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -86,8 +86,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,8 @@
   },
   "active": "e86ae7b5b3630f3f",
   "lastOpenFiles": [
-    "Scala/13.1 Contextual Abstraction II.md",
     "Scala/10.3 Contextual Abstraction I.md",
+    "Scala/13.1 Contextual Abstraction II.md",
     "Software Engineering/13.A Formal Verification.md",
     "Slides/scala-week13.pdf",
     "Slides/soft-eng-week13.pdf",
