@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/13.A Formal Verification.md",
-                "mode": "preview",
+                "file": "Scala/13.1 Contextual Abstraction II.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "13.A Formal Verification"
+              "title": "13.1 Contextual Abstraction II"
             }
           }
         ],
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynamic",
+                "query": "rational",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,9 +194,12 @@
   },
   "active": "e86ae7b5b3630f3f",
   "lastOpenFiles": [
+    "Scala/13.1 Contextual Abstraction II.md",
+    "Scala/10.3 Contextual Abstraction I.md",
+    "Software Engineering/13.A Formal Verification.md",
+    "Slides/scala-week13.pdf",
     "Slides/soft-eng-week13.pdf",
     "Untitled.md",
-    "Software Engineering/13.A Formal Verification.md",
     "Scala/10.1 Imperative Programming.md",
     "Software Engineering/11.A Human Aspects, Ethics.md",
     "Software Engineering/9.A Practical Engineering II.md",
@@ -208,7 +212,6 @@
     "Images/coffee_shop_asynchronous.png",
     "Scala/2.3 Data and Classes.md",
     "Scala/11.1 Safe Imperative Programming.md",
-    "Scala/10.3 Contextual Abstraction.md",
     "Software Engineering/7.A Functional Data Structures.md",
     "Scala/1.1 Background.md",
     "Slides/scala-week10.pdf",
@@ -231,8 +234,6 @@
     "Software Engineering/6.A Requirements for Parallelism.md",
     "Software Engineering/4.A Tracing, Stack Usage.md",
     "Scala/4.2 Generics, Polymorphism.md",
-    "Slides/soft-eng-week7.pdf",
-    "Slides/scala-week7.pdf",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
