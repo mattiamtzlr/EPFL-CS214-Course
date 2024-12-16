@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "e86ae7b5b3630f3f",
+            "id": "e828b465039c5e79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala/13.1 Contextual Abstraction II.md",
+                "file": "Software Engineering/14.A Getting a Job.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "13.1 Contextual Abstraction II"
+              "title": "14.A Getting a Job"
             }
           }
         ],
@@ -191,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e86ae7b5b3630f3f",
+  "active": "e828b465039c5e79",
   "lastOpenFiles": [
-    "Scala/10.3 Contextual Abstraction I.md",
+    "Software Engineering/14.A Getting a Job.md",
     "Scala/13.1 Contextual Abstraction II.md",
+    "Scala/10.3 Contextual Abstraction I.md",
     "Software Engineering/13.A Formal Verification.md",
     "Slides/scala-week13.pdf",
     "Slides/soft-eng-week13.pdf",
@@ -232,7 +233,6 @@
     "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/6.A Requirements for Parallelism.md",
     "Software Engineering/4.A Tracing, Stack Usage.md",
-    "Scala/4.2 Generics, Polymorphism.md",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
