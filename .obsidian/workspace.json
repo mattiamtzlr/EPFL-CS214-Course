@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/14.A Getting a Job.md",
-                "mode": "preview",
+                "file": "Scala/14.1 Monads.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "14.A Getting a Job"
+              "title": "14.1 Monads"
             }
           }
         ],
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rational",
+                "query": "option",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,6 +194,8 @@
   },
   "active": "e828b465039c5e79",
   "lastOpenFiles": [
+    "Scala/14.1 Monads.md",
+    "Scala/5.2 More Collections.md",
     "Software Engineering/14.A Getting a Job.md",
     "Scala/13.1 Contextual Abstraction II.md",
     "Scala/10.3 Contextual Abstraction I.md",
@@ -216,7 +219,6 @@
     "Scala/1.1 Background.md",
     "Slides/scala-week10.pdf",
     "Slides/soft-eng-week9_1-demo.pdf",
-    "Scala/5.2 More Collections.md",
     "Software Engineering/9.B Distributed Version Control.md",
     "Software Engineering/1.A Git Basics.md",
     "Software Engineering/8.A Practical Engineering I.md",
@@ -232,7 +234,6 @@
     "Slides/soft-eng-week8.pdf",
     "Software Engineering/6.B Work and Depth.md",
     "Software Engineering/6.A Requirements for Parallelism.md",
-    "Software Engineering/4.A Tracing, Stack Usage.md",
     "Images/guide-to-debugging.png",
     "Images/scala-class-hierarchy.png",
     "Untitled.canvas"
