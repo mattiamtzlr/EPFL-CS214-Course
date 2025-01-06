@@ -1,0 +1,15 @@
+{
+  "Appearance@@red@@dark": "#F7768E",
+  "Appearance@@red1@@dark": "#F7768E",
+  "Appearance@@accent@@dark": "#F7768E",
+  "Editor@@italic-color@@dark": "#F7768E",
+  "Editor@@bold-color@@dark": "#F7768E",
+  "Editor@@tag-background@@dark": "#F7768E30",
+  "Editor@@tag-background-hover@@dark": "#FF99AC30",
+  "Editor@@tag-color@@dark": "#F7768E",
+  "Editor@@link-color@@dark": "#F7768E",
+  "Editor@@link-color-hover@@dark": "#FF98AB",
+  "Editor@@link-external-color@@dark": "#F7768E",
+  "Editor@@link-external-color-hover@@dark": "#FF98AB",
+  "Editor@@blockquote-background-color@@dark": "#1A1B26"
+}
